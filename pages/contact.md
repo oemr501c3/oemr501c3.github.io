@@ -1,12 +1,18 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
+header:
+  image_fullwidth: images/unsplash_brooklyn-bridge_header.jpg
+  title: OEMR
+  caption: Supporting OpenEMR, a Free Open Source Electronic Health Record
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+## Email Address
+Executive Director: Brady Miller  
+EMAIL: brady.g.miller@gmail.com
 
- [1]: http://www.wufoo.com/
+## Mailing Address
+25 East Center Street  
+Rutland, VT 05701-4132
+

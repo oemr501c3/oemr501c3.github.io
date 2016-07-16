@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About OEMR"
-permalink: "/info/"
+permalink: "/about/"
 header:
   image_fullwidth: images/unsplash_brooklyn-bridge_header.jpg
   title: OEMR
