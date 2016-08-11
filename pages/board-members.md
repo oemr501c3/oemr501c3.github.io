@@ -20,7 +20,6 @@ header:
 * Robert Down
 * Lou Galterio
 * Shameem Hameed
-* Tony McCormick
 * Brady Miller
 * Sena Palanisami
 * Roberto Vasquez
