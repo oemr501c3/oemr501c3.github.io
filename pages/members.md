@@ -12,6 +12,7 @@ header:
 * Jit Chawla
 * Robert Down
 * fsgl
+* Shameem Hameed
 * Brady Miller
 * Sena Palanisami
 * Roberto Vasquez
