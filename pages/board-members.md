@@ -24,7 +24,6 @@ header:
 * Sena Palanisami
 * Roberto Vasquez
 * Stephen Waite
-* Kevin Yeh
 
 {% include standard_donation_link.md %}
 
