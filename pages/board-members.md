@@ -24,6 +24,7 @@ header:
 * Sena Palanisami
 * Roberto Vasquez
 * Stephen Waite
+* Scott Wakefield
 
 {% include standard_donation_link.md %}
 
