@@ -1,4 +1,4 @@
-OEMR is a non-profit (501(c)(3)) organization formed to ensure that all people, regardless of race, socioeconomic status or geographic location, have access to high-quality medical care through the donation of free, open source medical software and service relating to that software.
+OEMR is a non-profit organization formed to ensure that all people, regardless of race, socioeconomic status or geographic location, have access to high-quality medical care through the donation of free, open source medical software and service relating to that software.
 
 OEMR supports the OpenEMR project and uses OpenEMR software as the primary instrument to effect its goals. OEMR has an open policy for membership and accepts donations (PayPal link below).
 
