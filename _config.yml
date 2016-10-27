@@ -14,7 +14,7 @@ title: 'OEMR'
 slogan: 'Supporting OpenEMR, a Free Open Source Electronic Health Record'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'OEMR is a non-profit organization supports the OpenEMR project.'
+description: 'OEMR is a non-profit organization that supports the OpenEMR project.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>This site is written and maintained by the OEMR organization</p>'
