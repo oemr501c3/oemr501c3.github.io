@@ -26,6 +26,23 @@
   - title: "Forums"
     url: "/community/forums/"
 
+- title: "Education"
+  url: "/education/"
+  side: left
+  dropdown:
+  - title: "Open Source"
+    url: "/education/open-source/"
+  - title: "Code Development"
+    url: "/education/code-development/"
+  - title: "Electronic Medical Records"
+    url: "/education/emr/"
+  - title: "OpenEMR"
+    url: "/education/openemr/"
+
+- title: "Services"
+  url: "/services/"
+  side: left 
+
 - title: "Download OpenEMR"
   url: "/download-openemr/"
   side: left
