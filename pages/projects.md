@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Other Projects"
-permalink: "/other-projects/"
+title: "Projects"
+permalink: "/projects/"
 header:
   image_fullwidth: images/unsplash_brooklyn-bridge_header.jpg
   title: OEMR
@@ -9,11 +9,9 @@ header:
 ---
 
 ## OpenEMR
-[OpenEMR website](http://www.open-emr.org)
+[OpenEMR](http://www.open-emr.org) is an electronic health records and medical practice management application. It features fully integrated electronic health, records, practice management, scheduling, electronic billing. You may find out more and ask questions here at [OpenEMR Forums](https://sourceforge.net/p/openemr/discussion/) or download it now from [OpenEMR Downloads](http://www.open-emr.org/wiki/index.php/OpenEMR_Downloads). You can also try out this [Live OpenEMR Demo](http://www.open-emr.org/wiki/index.php/OpenEMR_Demo).
 
 ## OpenEMR Insights
-See your patients in a whole new way.
-
 With OpenEMR Insights, it’s easier than ever to create insightful reports about your patients. OpenEMR Insights provides ETL and Dashboards to enhance your OpenEMR intelligence backed by Pentaho CE and Saiku Analytics CE. Out-of-the-box, you can implement a data mart that unlocks services and referrals, plus view sample parameterized dashboards.
 
 [Insights Installation Instructions](/files/OpenEMRInsightsInstructions.pdf)
