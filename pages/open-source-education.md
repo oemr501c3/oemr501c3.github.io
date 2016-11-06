@@ -11,7 +11,7 @@ header:
 ## Overview
 {% include standard_education.md %}
 
-## Open Source Education
+## Open Source
 Under Construction.
 
 {% include standard_donation_link.md %}
