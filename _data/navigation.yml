@@ -34,6 +34,8 @@
     url: "/education/open-source/"
   - title: "Code Development"
     url: "/education/code-development/"
+  - title: "Project Management"
+    url: "/education/project-management/"
   - title: "Electronic Medical Records"
     url: "/education/emr/"
   - title: "OpenEMR"
