@@ -10,7 +10,9 @@ header:
 
 ## Overview
 
-Under Construction.
+OEMR is dedicated to education to fulfill its mission. The topics of education include [Open Source]({{site.url}}/education/open-source/), Code development, Electronic Medical Records and OpenEMR.
+
+
 
 ## Open Source Education
 
