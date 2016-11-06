@@ -8,6 +8,6 @@ header:
   caption: Supporting OpenEMR, a Free Open Source Electronic Health Record
 ---
 
-Under Construction.
+OEMR is dedicated to provide services in order to fulfill its mission. Services include providing support and resources to under-represented groups and other charitable organizations.
 
 {% include standard_donation_link.md %}
