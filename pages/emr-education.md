@@ -8,6 +8,10 @@ header:
   caption: Supporting OpenEMR, a Free Open Source Electronic Health Record
 ---
 
+## Overview
+{% include standard_education.md %}
+
+## Electronic Medical Records
 Under Construction.
 
 {% include standard_donation_link.md %}
