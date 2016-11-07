@@ -12,8 +12,6 @@ header:
 {% include standard_education.md %}
 
 ## OpenEMR
-Under construction
-
-
+[OpenEMR](http://www.open-emr.org) is an electronic health records and medical practice management application. It features fully integrated electronic health, records, practice management, scheduling, electronic billing. You may find out more and ask questions here at [OpenEMR Forums](https://sourceforge.net/p/openemr/discussion/) or download it now from [OpenEMR Downloads](http://www.open-emr.org/wiki/index.php/OpenEMR_Downloads). You can also try out this [Live OpenEMR Demo](http://www.open-emr.org/wiki/index.php/OpenEMR_Demo).
 
 {% include standard_donation_link.md %}
