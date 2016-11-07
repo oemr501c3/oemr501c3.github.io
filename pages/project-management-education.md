@@ -12,6 +12,6 @@ header:
 {% include standard_education.md %}
 
 ## Project Management
-Under Construction.
+By coupling mentorship by OEMR to the OpenEMR project, the opportunities for learning in this area are vast. The scope of project management can range from a single code development or website project to something that encompasses the entire breadth of OpenEMR (such as project administration).
 
 {% include standard_donation_link.md %}
