@@ -14,6 +14,6 @@ header:
 ## Open Source
 We can all benefit from the culture and concepts of open source.
 
-Open Source software is software that can be freely accessed, used, changed, and shared (in modified or unmodified form) by anyone. The internationally recognized Open Source Definition provides ten criteria that must be met to be labeled "Open Source software". These criteria can be found here on the [Open Source Initiate website](https://opensource.org/osd).
+Open Source software is software that can be freely accessed, used, changed, and shared (in modified or unmodified form) by anyone. The internationally recognized Open Source Definition provides ten criteria that must be met to be labeled "Open Source software". These criteria can be found here on the [Open Source Initiative website](https://opensource.org/osd).
 
 {% include standard_donation_link.md %}
