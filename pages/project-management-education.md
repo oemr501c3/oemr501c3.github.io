@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open Source Education"
+title: "Project Management Education"
 permalink: "/education/project-management/"
 header:
   image_fullwidth: images/unsplash_brooklyn-bridge_header.jpg
