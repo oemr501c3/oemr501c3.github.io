@@ -23,6 +23,7 @@ header:
 * Brady Miller
 * Sena Palanisami
 * Roberto Vasquez
+* Matthew Vita
 * Stephen Waite
 * Scott Wakefield
 
