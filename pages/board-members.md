@@ -9,8 +9,8 @@ header:
 ---
 
 ## Officers
-* Chair – Shameem Hameed
-* Vice Chair – Sena Palanisami
+* Chair – Sena Palanisami
+* Vice Chair – Shameem Hameed
 * Executive Director – Brady Miller
 * Secretary – Robert Down
 * Treasurer – Stephen Waite
