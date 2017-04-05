@@ -9,12 +9,12 @@ header:
 ---
 
 ## OEMR Forum
-* [The OEMR Organization Forum](https://sourceforge.net/p/openemr/discussion/oemr_501c3/).
+* [The OEMR Organization Forum](https://community.open-emr.org/c/oemr-non-profit-organization).
 
 ## OpenEMR Forums
-* [OpenEMR Developers Forum](https://sourceforge.net/p/openemr/discussion/202506/)
-* [OpenEMR Help Forum](https://sourceforge.net/p/openemr/discussion/202505/)
-* [OpenEMR User Forum](https://sourceforge.net/p/openemr/discussion/202504/)
+* [OpenEMR Developers Forum](https://community.open-emr.org/c/openemr-development)
+* [OpenEMR Manage Forum](https://community.open-emr.org/c/openemr-admin-manage)
+* [OpenEMR User Forum](https://community.open-emr.org/c/clinical-users)
 
 {% include standard_donation_link.md %}
 
