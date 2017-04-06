@@ -9,7 +9,7 @@ header:
 ---
 
 ## OpenEMR
-[OpenEMR](http://www.open-emr.org) is an electronic health records and medical practice management application. It features fully integrated electronic health, records, practice management, scheduling, electronic billing. You may find out more and ask questions here at [OpenEMR Forums](https://sourceforge.net/p/openemr/discussion/) or download it now from [OpenEMR Downloads](http://www.open-emr.org/wiki/index.php/OpenEMR_Downloads). You can also try out this [Live OpenEMR Demo](http://www.open-emr.org/wiki/index.php/OpenEMR_Demo).
+[OpenEMR](http://www.open-emr.org) is an electronic health records and medical practice management application. It features fully integrated electronic health, records, practice management, scheduling, electronic billing. You may find out more and ask questions here at [OpenEMR Forums](https://community.open-emr.org/) or download it now from [OpenEMR Downloads](http://www.open-emr.org/wiki/index.php/OpenEMR_Downloads). You can also try out this [Live OpenEMR Demo](http://www.open-emr.org/wiki/index.php/OpenEMR_Demo).
 
 ## OpenEMR Insights
 With OpenEMR Insights, it’s easier than ever to create insightful reports about your patients. OpenEMR Insights provides ETL and Dashboards to enhance your OpenEMR intelligence backed by Pentaho CE and Saiku Analytics CE. Out-of-the-box, you can implement a data mart that unlocks services and referrals, plus view sample parameterized dashboards.
