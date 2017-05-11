@@ -18,6 +18,7 @@ header:
 ## Board of Directors
 * Jit Chawla
 * Robert Down
+* Sherwin Gaddis
 * Lou Galterio
 * Shameem Hameed
 * Brady Miller
