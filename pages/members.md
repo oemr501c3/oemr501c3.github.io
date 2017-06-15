@@ -11,6 +11,7 @@ header:
 ## Members
 * Jit Chawla
 * Robert Down
+* Sherwin Gaddis
 * Lou Galterio
 * Shameem Hameed
 * Brady Miller
