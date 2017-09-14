@@ -8,6 +8,8 @@
   dropdown:
   - title: "Board Members"
     url: "/about/board-members/"
+  - title: "Staff"
+    url: "/about/staff/"
   - title: "Members"
     url: "/about/members/"
   - title: "Meetings"
