@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "OEMR staff"
+title: "OEMR Staff"
 permalink: "/about/staff/"
 header:
   image_fullwidth: images/unsplash_brooklyn-bridge_header.jpg
