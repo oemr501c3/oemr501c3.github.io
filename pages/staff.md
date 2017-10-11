@@ -9,8 +9,14 @@ header:
 ---
 
 ## Staff
-* Executive Director – Brady Miller
+* Chief Executive Officer(Executive Director) – Brady Miller
+* Chief Medical Officer - Andre Millet
+* Chief Technology Officer - Matthew Vita
+* Chief Marketing Officer - Robert Down
+* Chief Development Officer - Brady Miller
 * Chief Data Scientist - John Williams
+* Cloud Engineer - Asher Densmore-Lynn
+* Software Engineer - Jason Oettinger
 
 {% include standard_donation_link.md %}
 
