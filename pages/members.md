@@ -11,6 +11,7 @@ header:
 ## Members
 * Jit Chawla
 * Robert Down
+* Daniel Ehrlich
 * Sherwin Gaddis
 * Lou Galterio
 * Shameem Hameed
@@ -20,6 +21,7 @@ header:
 * Matthew Vita
 * Stephen Waite
 * Scott Wakefield
+* John Williams
 * Kevin Yeh
 
 {% include standard_donation_link.md %}
