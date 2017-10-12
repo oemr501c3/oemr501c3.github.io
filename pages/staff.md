@@ -10,6 +10,7 @@ header:
 
 ## Staff
 * Chief Executive Officer(Executive Director) – Brady Miller
+* Chief Financial Officer - Stephen Waite
 * Chief Medical Officer - Andre Millet
 * Chief Technology Officer - Matthew Vita
 * Chief Marketing Officer - Robert Down
