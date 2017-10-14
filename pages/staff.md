@@ -13,7 +13,7 @@ header:
 * Chief Financial Officer - Stephen Waite
 * Chief Medical Officer - Andre Millet
 * Chief Technology Officer - Matthew Vita
-* Chief Marketing Officer - Robert Down
+* Chief Information Officer - Robert Down
 * Chief Development Officer - Brady Miller
 * Chief Data Scientist - John Williams
 * Cloud Engineer - Asher Densmore-Lynn
