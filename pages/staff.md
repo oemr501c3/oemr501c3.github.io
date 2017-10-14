@@ -17,6 +17,7 @@ header:
 * Chief Development Officer - Brady Miller
 * Chief Data Scientist - John Williams
 * Cloud Engineer - Asher Densmore-Lynn
+* Cloud Engineer - Daniel Ehrlich
 * Software Engineer - Jason Oettinger
 
 {% include standard_donation_link.md %}
