@@ -17,6 +17,7 @@ header:
 
 ## Board of Directors
 * Jit Chawla
+* Asher Densmore-Lynn
 * Robert Down
 * Daniel Ehrlich
 * Sherwin Gaddis
