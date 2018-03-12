@@ -14,7 +14,7 @@ header:
 * Chief Medical Officer - Andre Millet
 * Chief Technology Officer - Matthew Vita
 * Chief Information Officer - Robert Down
-* Chief Development Officer - Duc Tran
+* Chief Development Officer - Brady Miller
 * Chief Data Scientist - John Williams
 * Cloud Services Program Manager - John Williams
 * Cloud Engineer - Asher Densmore-Lynn
