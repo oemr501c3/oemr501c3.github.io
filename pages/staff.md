@@ -16,8 +16,8 @@ header:
 * Chief Information Officer - Robert Down
 * Chief Development Officer - Brady Miller
 * Chief Data Scientist - John Williams
+* Chief Systems Architect - Asher Densmore-Lynn
 * Cloud Services Program Manager - John Williams
-* Cloud Engineer - Asher Densmore-Lynn
 * Cloud Engineer - Daniel Ehrlich
 * Software Engineer - Jason Oettinger
 
