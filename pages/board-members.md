@@ -29,7 +29,6 @@ header:
 * Matthew Vita
 * Stephen Waite
 * Scott Wakefield
-* John Williams
 
 {% include standard_donation_link.md %}
 
