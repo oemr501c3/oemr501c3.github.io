@@ -22,7 +22,6 @@ header:
 * Matthew Vita
 * Stephen Waite
 * Scott Wakefield
-* John Williams
 * Kevin Yeh
 
 {% include standard_donation_link.md %}
