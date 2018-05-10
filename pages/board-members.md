@@ -9,10 +9,10 @@ header:
 ---
 
 ## Officers
-* Chair – Sena Palanisami
+* Chair – Robert Down
 * Vice Chair – Matthew Vita
 * Executive Director – Brady Miller
-* Secretary – Robert Down
+* Secretary – Jit Chawla
 * Treasurer – Stephen Waite
 
 ## Board of Directors
@@ -21,14 +21,10 @@ header:
 * Robert Down
 * Daniel Ehrlich
 * Sherwin Gaddis
-* Lou Galterio
-* Shameem Hameed
 * Brady Miller
-* Sena Palanisami
 * Roberto Vasquez
 * Matthew Vita
 * Stephen Waite
-* Scott Wakefield
 
 {% include standard_donation_link.md %}
 
