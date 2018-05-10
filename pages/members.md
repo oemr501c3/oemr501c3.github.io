@@ -17,7 +17,6 @@ header:
 * Lou Galterio
 * Shameem Hameed
 * Brady Miller
-* Sena Palanisami
 * Roberto Vasquez
 * Matthew Vita
 * Stephen Waite
